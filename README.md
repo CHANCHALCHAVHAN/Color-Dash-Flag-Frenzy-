@@ -24,6 +24,11 @@ Color Dash: Flag Frenzy is a fast, fun arcade game that tests your reflexes and 
 - 🚀 **Increasing Difficulty Levels**
 
 ---
+## Output
+
+[![Demo GIF](https://img.shields.io/badge/Demo_of_Game(Lets-Play)-Yellow?logo=github&style=for-the-badge)](https://github.com/CHANCHALCHAVHAN/Color-Dash-Flag-Frenzy-/blob/main/fflag%20game%20output.mp4)
+
+----
 
 ## 🧩 Code Structure & Implementation
 
